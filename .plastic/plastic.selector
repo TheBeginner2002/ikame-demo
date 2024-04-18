@@ -1,0 +1,4 @@
+repository "ikame-demo@Nerfmyass112@cloud"
+  path "/"
+    br "/main"
+    co "/main"
