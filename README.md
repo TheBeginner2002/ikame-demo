@@ -4,3 +4,7 @@ Con game này sẽ lấy cơ chế của game góc nhìn thứ 3, phiêu lưu, v
 
 Một số hình ảnh con game:
 ![pic1](./DemoPicture/pic1.png)
+
+![pic2](./DemoPicture/pic2.png)
+
+![pic3](./DemoPicture/pic3.png)
